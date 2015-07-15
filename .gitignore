@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+myenv
+db.sqllite
+*.DS_Store
+
